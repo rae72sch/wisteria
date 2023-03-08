@@ -1,0 +1,199 @@
+
+body {
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+h2,
+h3,
+h4 {
+    text-align: center;
+}
+
+table {
+    padding-top: 20px;
+    vertical-align: top;
+    width: 100%;
+}
+
+td {
+    vertical-align: top;
+    width: 400px;
+}
+
+ul {
+    list-style-type: circle;
+  }
+
+/* to center the logo image */
+.center {
+    display: block;
+    height: 20%;
+    margin-left: auto;
+    margin-right: auto;
+    width: 20%;
+}
+
+/* inline block for colours */
+.color-panel {
+    display: inline-block;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 12px;
+    margin: 20px auto;
+    min-height: 100px;
+    padding-top: 30px;
+    text-align: center;
+    width: 32%;
+  }
+
+  /* colour blocks */
+  .soft-violet {
+    background-color: #c4aedd;
+  }
+
+  .pale-pink {
+    background-color: #fbe1e3;
+  }
+
+  .dark-violet {
+    background-color: #6c35a6;
+    color: #fff;
+  }
+
+  .soft-green {
+    background-color: #e5f9d1;
+  }
+
+  .mid-green {
+    background-color: #cae5af;
+  }
+
+  .grey {
+    background-color: #c4c4c4;
+  }
+
+  .useage {
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 10px;
+    text-indent: 22px; /* keeps them away from the left edge */
+  }
+
+  /* creates the borders between the content areas */
+  .right {
+    border-right-style: ridge;
+  }
+
+  .bottom {
+    border-bottom-style: ridge;
+  }
+
+  /* keeping things looking good */
+  .padding {
+    padding-left: 15px;
+  }
+
+  /* inline block for fonts */
+  .font-panel {
+    width: 45%;
+    display: inline-block;
+  }
+
+  /* the font sections */
+  .arial {
+    font-family: Arial, Helvetica, sans-serif;
+    text-decoration: underline;
+  }
+
+  .regular-arial {
+    font-family: Arial, Helvetica, sans-serif;
+    font-style: normal;
+  }
+
+  .bold-arial {
+    font-family:Arial, Helvetica, sans-serif;
+    font-weight: bold;
+  }
+
+  .italic-arial {
+    font-family: Arial, Helvetica, sans-serif;
+    font-style: italic;
+  }
+
+  .patrick {
+    font-family: "Patrick Hand", cursive;
+    text-decoration: underline;
+  }
+
+  .regular-patrick {
+    font-family: "Patrick Hand", cursive;
+    font-style: normal;
+  }
+
+  .bold-patrick {
+    font-family: "Patrick Hand", cursive;
+    font-weight: bold;
+  }
+
+  .italic-patrick {
+    font-family: "Patrick Hand", cursive;
+    font-style: italic;
+  }
+
+  .amatic {
+    font-family: "Amatic SC", cursive;
+    text-decoration: underline;
+  }
+
+  .regular-amatic {
+    font-family: "Amatic SC", cursive;
+    font-style: normal;
+  }
+
+  .bold-amatic {
+    font-family: "Amatic SC", cursive;
+    font-weight: bold;
+  }
+
+  .italic-amatic {
+    font-family: "Amatic SC", cursive;
+    font-style: italic;
+  }
+
+  
+/* inline block for text */
+  .text-panel {
+    display: inline-block;
+    padding-left: 20px;
+    vertical-align: top;
+    width: 45%;
+  }
+
+  /* the text sections */
+  .main-heading {
+    text-align: center;
+    vertical-align: top;
+  }
+
+  .sub-headings {
+    text-align: center;
+    vertical-align: top;
+  }
+
+  .paragraph {
+    text-align: center;
+    vertical-align: top;
+  }
+
+  .quotations {
+    text-align: center;
+    vertical-align: top;
+  }
+
+  /* additional rules to use the actual fonts when mentioning them */
+  .hand {
+    font-family: "Patrick Hand", cursive;
+  }
+
+  .sc {
+    font-family: "Amatic SC", cursive;
+    font-style: italic;
+  }

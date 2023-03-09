@@ -38,6 +38,12 @@ ul {
     display: block;
     margin-left: auto;
     margin-right: auto;
+    width: 80%;
+}
+
+/* un-centered headings for the colour swatch images */
+.titles {
+    font size: 12px;
 }
 
 /* inline block for colours */

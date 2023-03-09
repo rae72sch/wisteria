@@ -108,6 +108,7 @@ ul {
   .font-panel {
     width: 45%;
     display: inline-block;
+    padding-left: 20px;
   }
 
   /* the font sections */

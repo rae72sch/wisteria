@@ -42,7 +42,8 @@ ul {
 
 /* un-centered headings for the colour swatch images */
 .titles {
-    font size: 12px;
+    font-size: 12px;
+    font-weight: bold;
 }
 
 /* inline block for colours */

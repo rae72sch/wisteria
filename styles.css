@@ -33,13 +33,12 @@ ul {
     width: 20%;
 }
 
-/* setting the height, width and centering the colour swatch images */
+/* centering the colour swatch images */
 .center-image {
     display: block;
     margin-left: auto;
     margin-right: auto;
-    width: 80%;
-}
+}   
 
 /* un-centered headings for the colour swatch images */
 .titles {

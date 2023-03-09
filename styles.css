@@ -27,19 +27,19 @@ ul {
 /* to center the logo image */
 .center {
     display: block;
-    height: 60px;
+    height: 20%;
     margin-left: auto;
     margin-right: auto;
-    width: 80%;
+    width: 20%;
 }
 
 /* setting the height, width and centering the colour swatch images */
 .center-image {
     display: block;
-    height: 20%;
+    height: 60px;
     margin-left: auto;
     margin-right: auto;
-    width: 20%;
+    width: 80%;
 }
 
 /* inline block for colours */

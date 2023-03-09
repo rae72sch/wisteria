@@ -27,6 +27,15 @@ ul {
 /* to center the logo image */
 .center {
     display: block;
+    height: 60px;
+    margin-left: auto;
+    margin-right: auto;
+    width: 80%;
+}
+
+/* setting the height, width and centering the colour swatch images */
+.center-image {
+    display: block;
     height: 20%;
     margin-left: auto;
     margin-right: auto;
